@@ -1,0 +1,40 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _94a5907205a8a4f3 -p********** _94a5907205a8a4f3 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./dummy.com/private/backups/20250628_173006-dummy_com-database.sql.gz
+
+Backup Summary for dummy.com at 2025-06-28 17:31:10.354816
+Config  : ./dummy.com/private/backups/20250628_173006-dummy_com-site_config_backup.json 180.0B
+Database: ./dummy.com/private/backups/20250628_173006-dummy_com-database.sql.gz         1.4MiB
+Backup for Site dummy.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d89a48d9aba1c650 -p********** _d89a48d9aba1c650 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./highbrowcollege.local/private/backups/20250628_173110-highbrowcollege_local-database.sql.gz
+
+Backup Summary for highbrowcollege.local at 2025-06-28 17:31:32.390837
+Config  : ./highbrowcollege.local/private/backups/20250628_173110-highbrowcollege_local-site_config_backup.json 158.0B
+Database: ./highbrowcollege.local/private/backups/20250628_173110-highbrowcollege_local-database.sql.gz         1.3MiB
+Backup for Site highbrowcollege.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _94a5907205a8a4f3 -p********** _94a5907205a8a4f3 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./dummy.com/private/backups/20250701_233007-dummy_com-database.sql.gz
+
+Backup Summary for dummy.com at 2025-07-01 23:31:15.901863
+Config  : ./dummy.com/private/backups/20250701_233007-dummy_com-site_config_backup.json 180.0B
+Database: ./dummy.com/private/backups/20250701_233007-dummy_com-database.sql.gz         1.4MiB
+Backup for Site dummy.com has been successfully completed
+File ./highbrowcollege.local/private/backups/20250628_173110-highbrowcollege_local-database.sql.gz is older than 24 hours
+File ./highbrowcollege.local/private/backups/20250628_173110-highbrowcollege_local-site_config_backup.json is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d89a48d9aba1c650 -p********** _d89a48d9aba1c650 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./highbrowcollege.local/private/backups/20250701_233116-highbrowcollege_local-database.sql.gz
+
+Backup Summary for highbrowcollege.local at 2025-07-01 23:32:03.125698
+Config  : ./highbrowcollege.local/private/backups/20250701_233116-highbrowcollege_local-site_config_backup.json 180.0B
+Database: ./highbrowcollege.local/private/backups/20250701_233116-highbrowcollege_local-database.sql.gz         1.4MiB
+Backup for Site highbrowcollege.local has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _94a5907205a8a4f3 -p********** _94a5907205a8a4f3 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./dummy.com/private/backups/20250713_233003-dummy_com-database.sql.gz
+
+Backup Summary for dummy.com at 2025-07-13 23:30:22.028495
+Config  : ./dummy.com/private/backups/20250713_233003-dummy_com-site_config_backup.json 180.0B
+Database: ./dummy.com/private/backups/20250713_233003-dummy_com-database.sql.gz         1.4MiB
+Backup for Site dummy.com has been successfully completed
+File ./highbrowcollege.local/private/backups/20250701_233116-highbrowcollege_local-site_config_backup.json is older than 24 hours
+File ./highbrowcollege.local/private/backups/20250701_233116-highbrowcollege_local-database.sql.gz is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d89a48d9aba1c650 -p********** _d89a48d9aba1c650 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./highbrowcollege.local/private/backups/20250713_233022-highbrowcollege_local-database.sql.gz
+
+Backup Summary for highbrowcollege.local at 2025-07-13 23:30:39.359967
+Config  : ./highbrowcollege.local/private/backups/20250713_233022-highbrowcollege_local-site_config_backup.json 180.0B
+Database: ./highbrowcollege.local/private/backups/20250713_233022-highbrowcollege_local-database.sql.gz         1.4MiB
+Backup for Site highbrowcollege.local has been successfully completed

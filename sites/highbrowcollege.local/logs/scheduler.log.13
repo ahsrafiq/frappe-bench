@@ -1,0 +1,10 @@
+2025-06-28 19:00:40,582 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for highbrowcollege.local
+2025-06-28 19:00:41,421 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for highbrowcollege.local
+2025-06-28 19:00:41,642 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-06-28 19:00:42,266 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-06-28 19:00:42,483 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-06-28 19:00:43,151 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-06-28 19:00:43,369 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-06-28 19:00:44,128 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-06-28 19:00:44,369 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for highbrowcollege.local
+2025-06-28 19:00:44,999 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for highbrowcollege.local

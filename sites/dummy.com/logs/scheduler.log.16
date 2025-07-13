@@ -1,0 +1,763 @@
+2025-06-21 19:43:46,888 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:44:47,758 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:45:48,992 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:45:49,040 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:45:50,356 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:45:50,637 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 19:45:51,668 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 19:45:51,920 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 19:45:52,954 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 19:45:53,169 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 19:45:54,114 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 19:46:50,208 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:46:50,316 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:46:50,652 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:46:50,781 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:46:51,601 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:46:52,102 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:46:52,573 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:46:53,000 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:46:54,040 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:46:54,170 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 19:46:54,636 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 19:46:54,814 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:46:55,068 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:46:55,324 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:46:56,078 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:46:56,239 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:46:56,623 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:46:57,073 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:46:57,856 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:46:57,984 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 19:46:58,266 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 19:47:51,560 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:48:52,024 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:49:53,073 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:50:53,993 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:50:54,149 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:50:54,777 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:50:54,981 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:50:55,596 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:50:55,795 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:50:56,299 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:50:56,563 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:50:57,553 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:50:57,779 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:50:58,976 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:50:59,494 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 19:51:00,318 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 19:51:00,539 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:51:01,015 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:51:01,230 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:51:02,008 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:51:02,194 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:51:02,863 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:51:03,040 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:51:03,711 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:51:03,945 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 19:51:04,444 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 19:51:54,940 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:52:55,459 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:53:56,228 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:54:56,978 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:54:57,097 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:54:57,835 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:54:58,111 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:54:58,612 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:54:58,758 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:54:59,084 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:54:59,218 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:55:00,300 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:55:00,678 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 19:55:00,982 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 19:55:01,219 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:55:01,488 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:55:01,601 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:55:02,049 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:55:02,310 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:55:03,262 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:55:03,394 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:55:03,962 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:55:04,354 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 19:55:05,010 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 19:55:57,763 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:55:57,777 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:55:58,419 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 19:56:58,629 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:57:59,012 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:59:00,458 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:59:00,578 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 19:59:01,573 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 19:59:01,694 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:59:02,161 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 19:59:02,538 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:59:02,895 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 19:59:03,313 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:59:04,202 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 19:59:04,595 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 19:59:05,025 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 19:59:05,498 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:59:06,112 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 19:59:06,437 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:59:07,291 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 19:59:07,423 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:59:08,343 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 19:59:08,682 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:59:09,219 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 19:59:09,403 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 19:59:10,277 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:00:02,392 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for dummy.com
+2025-06-21 20:00:02,493 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:00:04,086 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for dummy.com
+2025-06-21 20:00:04,369 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 20:00:06,013 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 20:00:06,263 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:00:06,906 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:00:07,073 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:00:07,670 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:00:07,896 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:00:08,532 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:00:08,741 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:00:09,512 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:01:02,911 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:02:04,071 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:02:04,269 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:02:05,330 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:02:05,692 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:02:06,482 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:02:06,613 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:02:07,339 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:02:07,777 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:02:08,592 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:02:08,891 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:02:09,813 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:02:10,168 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:02:10,975 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:02:11,138 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:02:11,785 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:02:12,071 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:02:12,772 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:02:12,885 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:02:13,397 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:02:13,522 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:02:14,015 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:03:04,778 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:04:05,437 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:05:06,677 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:05:06,698 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:05:07,569 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:06:07,896 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:06:08,112 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:06:08,719 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:06:08,833 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:06:10,005 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:06:10,426 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:06:11,110 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:06:11,470 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:06:11,949 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:06:12,061 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:06:12,526 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:06:12,880 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:06:13,212 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:06:13,333 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:06:14,828 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:06:14,978 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:06:15,704 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:06:15,997 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:06:16,466 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:06:16,600 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:06:16,889 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:07:09,223 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:08:09,844 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:09:10,484 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:10:11,989 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:10:12,218 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:10:13,232 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:10:13,679 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:10:14,526 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:10:14,771 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:10:15,323 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:10:15,571 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:10:16,609 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:10:16,894 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:10:17,868 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:10:18,195 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:10:18,662 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:10:18,837 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:10:19,147 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:10:19,457 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:10:20,911 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:10:21,128 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:10:21,542 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:10:21,653 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:10:22,376 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:10:22,619 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:10:22,996 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:11:12,675 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:12:13,364 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:13:14,004 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:14:14,999 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:14:15,059 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:14:15,725 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:14:15,929 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:14:16,543 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:14:16,761 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:14:17,258 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:14:17,471 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:14:18,212 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:14:18,415 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:14:18,894 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:14:19,092 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:14:19,563 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:14:19,790 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:14:20,576 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:14:20,789 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:14:21,406 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:14:21,652 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:14:22,336 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:14:22,545 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:14:23,033 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:15:15,969 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:15:15,992 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:15:16,960 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:15:17,190 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:15:18,053 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:15:18,277 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:15:19,328 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:15:19,678 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:15:20,792 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:16:16,552 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:17:16,999 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:18:18,070 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:18:18,348 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:18:19,434 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:18:19,748 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:18:20,485 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:18:20,911 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:18:21,517 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:18:21,770 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:18:22,706 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:18:22,922 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:18:23,437 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:18:23,798 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:18:24,449 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:18:24,646 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:18:25,440 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:18:25,742 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:18:26,575 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:18:27,017 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:18:27,605 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:18:27,844 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:18:28,328 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:19:19,062 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:20:19,861 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:20:19,939 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:20:20,629 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:21:20,283 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:22:21,158 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:22:21,350 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:22:21,828 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:22:22,035 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:22:22,637 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:22:22,841 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:22:23,199 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:22:23,427 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:22:24,408 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:22:24,678 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:22:25,543 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:22:25,902 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:22:26,434 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:22:26,579 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:22:27,044 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:22:27,252 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:22:28,008 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:22:28,377 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:22:28,881 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:22:28,998 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:22:29,299 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:23:22,048 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:24:22,824 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:25:23,792 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:25:23,946 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:25:24,654 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:26:24,625 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:26:24,931 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:26:25,610 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:26:25,813 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:26:26,333 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:26:26,582 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:26:27,488 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:26:27,907 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:26:28,865 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:26:28,985 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:26:29,371 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:26:29,610 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:26:29,862 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:26:30,080 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:26:31,354 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:26:31,567 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:26:32,423 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:26:32,607 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:26:33,219 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:26:33,465 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:26:33,763 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:27:25,318 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:28:25,736 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:29:26,138 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:30:27,225 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for dummy.com
+2025-06-21 20:30:28,894 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for dummy.com
+2025-06-21 20:30:29,161 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:30:30,973 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for dummy.com
+2025-06-21 20:30:31,185 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for dummy.com
+2025-06-21 20:30:31,447 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for dummy.com
+2025-06-21 20:30:31,695 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for dummy.com
+2025-06-21 20:30:32,272 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for dummy.com
+2025-06-21 20:30:32,500 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for dummy.com
+2025-06-21 20:30:32,667 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for dummy.com
+2025-06-21 20:30:32,914 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for dummy.com
+2025-06-21 20:30:33,628 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for dummy.com
+2025-06-21 20:30:33,918 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for dummy.com
+2025-06-21 20:30:33,946 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for dummy.com
+2025-06-21 20:30:34,573 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for dummy.com
+2025-06-21 20:30:34,738 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for dummy.com
+2025-06-21 20:30:35,538 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for dummy.com
+2025-06-21 20:30:35,710 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for dummy.com
+2025-06-21 20:30:36,172 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for dummy.com
+2025-06-21 20:30:36,345 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for dummy.com
+2025-06-21 20:30:36,880 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for dummy.com
+2025-06-21 20:30:37,048 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:30:37,437 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:30:37,568 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:30:37,926 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:30:38,042 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:30:38,328 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:30:38,484 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:30:39,030 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:30:39,142 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 20:30:39,929 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 20:30:40,094 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:30:40,500 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:30:40,652 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for dummy.com
+2025-06-21 20:30:41,202 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for dummy.com
+2025-06-21 20:30:41,393 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for dummy.com
+2025-06-21 20:30:42,769 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for dummy.com
+2025-06-21 20:30:42,938 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for dummy.com
+2025-06-21 20:30:43,451 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for dummy.com
+2025-06-21 20:30:43,618 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for dummy.com
+2025-06-21 20:30:44,453 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for dummy.com
+2025-06-21 20:30:44,654 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for dummy.com
+2025-06-21 20:30:45,189 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for dummy.com
+2025-06-21 20:30:45,366 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for dummy.com
+2025-06-21 20:30:46,410 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for dummy.com
+2025-06-21 20:30:46,554 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for dummy.com
+2025-06-21 20:30:46,949 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for dummy.com
+2025-06-21 20:30:47,114 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for dummy.com
+2025-06-21 20:30:47,498 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for dummy.com
+2025-06-21 20:30:47,666 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:30:47,920 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:30:48,038 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:30:48,300 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:30:48,412 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:30:48,836 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:30:48,954 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:30:49,328 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:30:49,443 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:30:49,856 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:30:49,973 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:30:50,275 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:30:50,390 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:30:50,857 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:30:50,985 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:30:51,536 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:30:51,712 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:30:52,144 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:31:29,771 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:32:30,420 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:33:31,117 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:34:32,089 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:34:32,092 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:34:33,056 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:34:33,272 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:34:33,918 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:34:34,128 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:34:34,633 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:34:34,869 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:34:35,596 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:34:35,833 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:34:36,282 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:34:36,485 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:34:36,971 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:34:37,178 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:34:37,957 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:34:38,155 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:34:39,098 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:34:39,305 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:34:40,018 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:34:40,224 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:34:40,716 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:35:32,969 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:35:33,037 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:35:33,982 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:36:33,593 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:37:34,192 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:38:35,130 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:38:35,216 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:38:35,859 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:38:36,063 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:38:36,685 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:38:36,889 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:38:37,404 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:38:37,605 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:38:38,377 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:38:38,590 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:38:39,074 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:38:39,282 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:38:39,750 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:38:40,120 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:38:40,930 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:38:41,156 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:38:42,042 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:38:42,375 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:38:43,281 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:38:43,480 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:38:43,972 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:39:36,187 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:40:36,988 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:40:37,035 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:40:37,772 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:41:37,660 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:42:38,787 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:42:38,895 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:42:39,681 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:42:40,009 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:42:41,039 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:42:41,409 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:42:41,938 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:42:42,142 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:42:42,902 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:42:43,112 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:42:43,581 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:42:43,809 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:42:44,242 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:42:44,465 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:42:45,240 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:42:45,490 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:42:46,248 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:42:46,482 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:42:47,307 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:42:47,557 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:42:48,210 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:43:39,575 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:44:40,017 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:45:40,865 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:45:40,944 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:45:41,886 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:45:42,092 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:45:42,695 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 20:45:42,783 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:45:43,313 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 20:45:43,456 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:45:44,198 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 20:46:41,310 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:46:41,354 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:46:41,625 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:46:41,742 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:46:42,008 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:46:42,187 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:46:42,635 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:46:42,718 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:46:43,151 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:46:43,234 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:46:43,413 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:46:43,492 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:46:43,672 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:46:43,756 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:46:44,056 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:46:44,135 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:46:44,392 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:46:44,474 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:46:44,754 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:46:44,833 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:46:45,033 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:47:41,655 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:48:41,918 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:49:42,453 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:50:42,933 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:50:43,027 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:50:43,568 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:50:43,654 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:50:43,943 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:50:44,030 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:50:44,231 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:50:44,410 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:50:45,071 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:50:45,292 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:50:45,702 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:50:45,797 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:50:46,261 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:50:46,415 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:50:46,587 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:50:46,674 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:50:47,037 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:50:47,119 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:50:47,402 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:50:47,542 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:50:47,813 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:50:47,921 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:50:48,166 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:51:43,299 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:52:43,622 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:53:43,916 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:54:44,329 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:54:44,370 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:54:44,780 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:54:44,926 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:54:45,286 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:54:45,449 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:54:45,773 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:54:45,886 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:54:46,509 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:54:46,683 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:54:46,872 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:54:46,958 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:54:47,358 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:54:47,551 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:54:47,950 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:54:48,050 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:54:48,320 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:54:48,447 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:54:49,137 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:54:49,260 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:54:49,493 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:55:44,730 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:55:44,748 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:55:45,094 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 20:56:45,003 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:57:45,290 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:58:45,658 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:58:45,715 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 20:58:46,062 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 20:58:46,247 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:58:46,486 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 20:58:46,571 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:58:46,782 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 20:58:46,867 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:58:47,185 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 20:58:47,270 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 20:58:47,449 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 20:58:47,526 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:58:47,714 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 20:58:47,795 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:58:48,099 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 20:58:48,183 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:58:48,439 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 20:58:48,518 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:58:48,787 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 20:58:48,876 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 20:58:49,088 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 20:59:46,017 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:00:46,812 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:00:46,816 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for dummy.com
+2025-06-21 21:00:47,694 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for dummy.com
+2025-06-21 21:00:47,826 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 21:00:48,776 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for dummy.com
+2025-06-21 21:00:48,929 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:00:49,489 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:00:49,627 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 21:00:50,028 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 21:00:50,120 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 21:00:50,686 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 21:00:50,797 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 21:00:51,295 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 21:01:47,078 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:02:47,558 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:02:47,623 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:02:47,869 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:02:47,964 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:02:48,205 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:02:48,291 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:02:48,502 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:02:48,591 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:02:48,935 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:02:49,024 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 21:02:49,212 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 21:02:49,296 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:02:49,478 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:02:49,563 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:02:49,894 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:02:49,988 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:02:50,245 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:02:50,337 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:02:50,613 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:02:50,695 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 21:02:50,900 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 21:03:47,977 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:04:48,243 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:05:48,599 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:05:48,608 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:05:48,898 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:06:49,625 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:06:49,857 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:06:50,702 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:06:50,925 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:06:51,639 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:06:51,790 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:06:52,202 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:06:52,324 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:06:52,675 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:06:52,760 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 21:06:52,932 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 21:06:53,010 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:06:53,179 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:06:53,256 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:06:53,531 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:06:53,607 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:06:53,860 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:06:53,940 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:06:54,198 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:06:54,276 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 21:06:54,468 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 21:07:50,133 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:08:50,568 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:09:50,831 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:10:51,481 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:10:51,644 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:10:52,010 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:10:52,126 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:10:52,382 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:10:52,461 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:10:52,834 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:10:53,037 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:10:53,450 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:10:53,610 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:10:54,053 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:10:54,142 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 21:10:54,621 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 21:10:54,699 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:10:54,940 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:10:55,024 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:10:55,337 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:10:55,440 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:10:55,728 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:10:55,812 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:10:56,089 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:10:56,166 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 21:10:56,396 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 21:11:52,294 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:12:52,608 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:13:52,936 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:14:53,554 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:14:53,576 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:14:54,447 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for dummy.com
+2025-06-21 21:14:54,999 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:14:55,661 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for dummy.com
+2025-06-21 21:14:55,753 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:14:55,980 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for dummy.com
+2025-06-21 21:14:56,088 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:14:56,521 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for dummy.com
+2025-06-21 21:14:56,621 INFO scheduler Scheduled Job Start: frappe.monitor.flush for dummy.com
+2025-06-21 21:14:56,837 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for dummy.com
+2025-06-21 21:14:56,955 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:14:57,175 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for dummy.com
+2025-06-21 21:14:57,268 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:14:57,605 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for dummy.com
+2025-06-21 21:14:57,697 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:14:57,993 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for dummy.com
+2025-06-21 21:14:58,092 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:14:58,402 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for dummy.com
+2025-06-21 21:14:58,498 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for dummy.com
+2025-06-21 21:14:58,734 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for dummy.com
+2025-06-21 21:15:53,922 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:15:53,940 DEBUG scheduler Queued events for site dummy.com
+2025-06-21 21:15:54,213 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for dummy.com
+2025-06-21 21:15:54,297 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 21:15:54,605 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for dummy.com
+2025-06-21 21:15:54,687 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 21:15:55,047 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for dummy.com
+2025-06-21 21:15:55,132 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 21:15:55,434 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for dummy.com
+2025-06-21 21:16:54,201 DEBUG scheduler Queued events for site dummy.com
+2025-06-22 00:33:25,177 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.employee.employee_reminders.send_reminders_in_advance_weekly for dummy.com
+2025-06-22 00:33:25,723 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for dummy.com
+2025-06-22 00:33:31,939 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.employee.employee_reminders.send_reminders_in_advance_weekly for dummy.com
+2025-06-22 00:33:32,882 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_daily_feedback_reminder for dummy.com
+2025-06-22 00:33:33,072 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for dummy.com
+2025-06-22 00:33:33,479 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for dummy.com
+2025-06-22 00:33:34,972 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_daily_feedback_reminder for dummy.com
+2025-06-22 00:33:35,628 INFO scheduler Scheduled Job Start: erpnext.non_profit.doctype.membership.membership.set_expired_status for dummy.com
+2025-06-22 00:33:35,804 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for dummy.com
+2025-06-22 00:33:36,126 DEBUG scheduler Queued events for site dummy.com
+2025-06-22 00:33:36,296 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for dummy.com
+2025-06-22 00:33:37,062 INFO scheduler Scheduled Job Complete: erpnext.non_profit.doctype.membership.membership.set_expired_status for dummy.com
+2025-06-22 00:33:37,427 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.process_statement_of_accounts.process_statement_of_accounts.send_auto_email for dummy.com
+2025-06-22 00:33:37,833 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for dummy.com
+2025-06-22 00:33:38,118 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.lead.lead.daily_open_lead for dummy.com
+2025-06-22 00:33:39,447 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.process_statement_of_accounts.process_statement_of_accounts.send_auto_email for dummy.com
+2025-06-22 00:33:39,798 INFO scheduler Scheduled Job Start: erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status for dummy.com
+2025-06-22 00:33:40,361 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.lead.lead.daily_open_lead for dummy.com
+2025-06-22 00:33:40,834 INFO scheduler Scheduled Job Start: erpnext.loan_management.doctype.process_loan_interest_accrual.process_loan_interest_accrual.process_loan_interest_accrual_for_term_loans for dummy.com
+2025-06-22 00:33:41,965 INFO scheduler Scheduled Job Complete: erpnext.buying.doctype.supplier_quotation.supplier_quotation.set_expired_status for dummy.com
+2025-06-22 00:33:42,495 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.update_appointment_status for dummy.com
+2025-06-22 00:33:43,211 INFO scheduler Scheduled Job Complete: erpnext.loan_management.doctype.process_loan_interest_accrual.process_loan_interest_accrual.process_loan_interest_accrual_for_term_loans for dummy.com
+2025-06-22 00:33:43,682 INFO scheduler Scheduled Job Start: erpnext.loan_management.doctype.process_loan_security_shortfall.process_loan_security_shortfall.create_process_loan_security_shortfall for dummy.com
+2025-06-22 00:33:44,123 INFO scheduler Scheduled Job Failed: erpnext.healthcare.doctype.patient_appointment.patient_appointment.update_appointment_status for dummy.com
+2025-06-22 00:33:44,776 INFO scheduler Scheduled Job Start: erpnext.selling.doctype.quotation.quotation.set_expired_status for dummy.com
+2025-06-22 00:33:45,229 INFO scheduler Scheduled Job Complete: erpnext.loan_management.doctype.process_loan_security_shortfall.process_loan_security_shortfall.create_process_loan_security_shortfall for dummy.com
+2025-06-22 00:33:45,670 INFO scheduler Scheduled Job Start: erpnext.hr.utils.allocate_earned_leaves for dummy.com
+2025-06-22 00:33:47,107 INFO scheduler Scheduled Job Complete: erpnext.selling.doctype.quotation.quotation.set_expired_status for dummy.com
+2025-06-22 00:33:47,687 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status for dummy.com
+2025-06-22 00:33:47,978 INFO scheduler Scheduled Job Complete: erpnext.hr.utils.allocate_earned_leaves for dummy.com
+2025-06-22 00:33:48,592 INFO scheduler Scheduled Job Start: erpnext.hr.utils.generate_leave_encashment for dummy.com
+2025-06-22 00:33:49,937 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.email_campaign.email_campaign.set_email_campaign_status for dummy.com
+2025-06-22 00:33:50,218 INFO scheduler Scheduled Job Complete: erpnext.hr.utils.generate_leave_encashment for dummy.com
+2025-06-22 00:33:50,315 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts for dummy.com
+2025-06-22 00:33:50,581 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation for dummy.com
+2025-06-22 00:33:51,825 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.email_campaign.email_campaign.send_email_to_leads_or_contacts for dummy.com
+2025-06-22 00:33:52,019 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.process_expired_allocation for dummy.com
+2025-06-22 00:33:52,167 INFO scheduler Scheduled Job Start: erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status for dummy.com
+2025-06-22 00:33:52,334 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.auto_update_latest_price_in_all_boms for dummy.com
+2025-06-22 00:33:54,932 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.service_level_agreement.service_level_agreement.check_agreement_status for dummy.com
+2025-06-22 00:33:55,091 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool.auto_update_latest_price_in_all_boms for dummy.com
+2025-06-22 00:33:55,301 INFO scheduler Scheduled Job Start: erpnext.quality_management.doctype.quality_review.quality_review.review for dummy.com
+2025-06-22 00:33:55,372 INFO scheduler Scheduled Job Start: erpnext.setup.doctype.email_digest.email_digest.send for dummy.com
+2025-06-22 00:33:56,618 INFO scheduler Scheduled Job Complete: erpnext.setup.doctype.email_digest.email_digest.send for dummy.com
+2025-06-22 00:33:57,001 INFO scheduler Scheduled Job Complete: erpnext.quality_management.doctype.quality_review.quality_review.review for dummy.com
+2025-06-22 00:33:57,168 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_drive.google_drive.weekly_backup for dummy.com
+2025-06-22 00:33:57,511 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.send_project_status_email_to_users for dummy.com
+2025-06-22 00:34:01,643 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.send_project_status_email_to_users for dummy.com
+2025-06-22 00:34:02,873 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.update_project_sales_billing for dummy.com
+2025-06-22 00:34:03,863 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_drive.google_drive.weekly_backup for dummy.com
+2025-06-22 00:34:04,641 INFO scheduler Scheduled Job Start: frappe.social.doctype.energy_point_log.energy_point_log.send_weekly_summary for dummy.com
+2025-06-22 00:34:06,463 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.update_project_sales_billing for dummy.com
+2025-06-22 00:34:06,918 INFO scheduler Scheduled Job Complete: frappe.social.doctype.energy_point_log.energy_point_log.send_weekly_summary for dummy.com
+2025-06-22 00:34:07,056 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.contract.contract.update_status_for_contracts for dummy.com
+2025-06-22 00:34:07,479 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_weekly_updates for dummy.com
+2025-06-22 00:34:09,643 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.contract.contract.update_status_for_contracts for dummy.com
+2025-06-22 00:34:09,954 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_weekly_updates for dummy.com
+2025-06-22 00:34:10,316 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.asset.make_post_gl_entry for dummy.com
+2025-06-22 00:34:10,677 INFO scheduler Scheduled Job Start: frappe.desk.doctype.route_history.route_history.flush_old_route_records for dummy.com
+2025-06-22 00:34:14,181 INFO scheduler Scheduled Job Complete: frappe.desk.doctype.route_history.route_history.flush_old_route_records for dummy.com
+2025-06-22 00:34:15,042 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_weekly for dummy.com
+2025-06-22 00:34:15,266 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.asset.make_post_gl_entry for dummy.com
+2025-06-22 00:34:15,874 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.asset.update_maintenance_status for dummy.com
+2025-06-22 00:34:18,409 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_weekly for dummy.com
+2025-06-22 00:34:19,197 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_weekly for dummy.com
+2025-06-22 00:34:19,812 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.asset.update_maintenance_status for dummy.com
+2025-06-22 00:34:20,454 INFO scheduler Scheduled Job Start: erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history for dummy.com
+2025-06-22 00:34:23,021 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_weekly for dummy.com
+2025-06-22 00:34:23,381 INFO scheduler Scheduled Job Complete: erpnext.setup.doctype.company.company.cache_companies_monthly_sales_history for dummy.com
+2025-06-22 00:34:23,691 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_drive.google_drive.daily_backup for dummy.com
+2025-06-22 00:34:24,104 INFO scheduler Scheduled Job Start: erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards for dummy.com
+2025-06-22 00:34:26,573 INFO scheduler Scheduled Job Complete: erpnext.buying.doctype.supplier_scorecard.supplier_scorecard.refresh_scorecards for dummy.com
+2025-06-22 00:34:27,223 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status for dummy.com
+2025-06-22 00:34:27,505 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_drive.google_drive.daily_backup for dummy.com
+2025-06-22 00:34:28,083 INFO scheduler Scheduled Job Start: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for dummy.com
+2025-06-22 00:34:30,207 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.serial_no.serial_no.update_maintenance_status for dummy.com
+2025-06-22 00:34:31,137 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary for dummy.com
+2025-06-22 00:34:34,405 INFO scheduler Scheduled Job Complete: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for dummy.com
+2025-06-22 00:34:34,577 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.send_summary for dummy.com
+2025-06-22 00:34:35,008 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for dummy.com
+2025-06-22 00:34:35,071 INFO scheduler Scheduled Job Start: erpnext.assets.doctype.asset.depreciation.post_depreciation_entries for dummy.com
+2025-06-22 00:34:37,446 INFO scheduler Scheduled Job Complete: erpnext.assets.doctype.asset.depreciation.post_depreciation_entries for dummy.com
+2025-06-22 00:34:37,777 DEBUG scheduler Queued events for site dummy.com
+2025-06-22 00:35:45,225 DEBUG scheduler Queued events for site dummy.com

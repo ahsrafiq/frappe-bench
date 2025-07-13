@@ -1,0 +1,142 @@
+2025-07-05 20:54:12,607 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 20:54:13,408 INFO scheduler Scheduled Job Start: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 20:54:13,866 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 20:54:14,066 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 20:54:14,529 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 20:54:14,730 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 20:54:15,518 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 20:54:15,733 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 20:54:16,369 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 20:54:16,568 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 20:54:17,220 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 20:54:17,429 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 20:54:17,936 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 20:54:18,149 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-07-05 20:54:18,779 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-07-05 20:54:19,002 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-07-05 20:54:19,776 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-07-05 20:54:19,994 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for highbrowcollege.local
+2025-07-05 20:54:20,707 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for highbrowcollege.local
+2025-07-05 20:54:22,065 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 20:54:22,803 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 20:54:23,043 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 20:54:23,652 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 20:54:23,875 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 20:54:24,384 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 20:54:24,639 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 20:54:25,459 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 20:55:13,564 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 20:55:13,964 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 20:55:15,108 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 20:56:14,535 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 20:57:15,412 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 20:58:16,331 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 20:58:16,473 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 20:58:16,964 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 20:58:17,153 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 20:58:17,717 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 20:58:17,994 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 20:58:18,562 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 20:58:18,765 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 20:58:19,457 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 20:58:19,676 INFO scheduler Scheduled Job Start: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 20:58:20,135 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 20:58:20,332 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 20:58:20,805 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 20:58:20,999 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 20:58:21,758 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 20:58:21,975 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 20:58:22,575 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 20:58:22,797 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 20:58:23,470 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 20:58:23,732 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 20:58:24,276 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 20:59:17,337 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:00:20,396 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:00:20,476 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for highbrowcollege.local
+2025-07-05 21:00:23,086 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for highbrowcollege.local
+2025-07-05 21:00:23,893 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for highbrowcollege.local
+2025-07-05 21:00:27,282 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for highbrowcollege.local
+2025-07-05 21:00:28,135 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:00:29,330 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:00:29,586 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-07-05 21:00:30,424 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for highbrowcollege.local
+2025-07-05 21:00:30,703 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-07-05 21:00:31,651 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for highbrowcollege.local
+2025-07-05 21:00:31,913 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for highbrowcollege.local
+2025-07-05 21:00:32,797 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for highbrowcollege.local
+2025-07-05 21:01:21,176 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:02:22,559 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:02:22,604 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:02:23,707 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:02:24,026 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:02:24,796 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:02:25,116 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:02:25,800 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:02:26,096 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:02:27,140 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:02:27,445 INFO scheduler Scheduled Job Start: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:02:28,138 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:02:28,419 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:02:29,133 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:02:29,386 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:02:30,438 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:02:30,730 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:02:31,824 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:02:32,442 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:02:33,501 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:02:33,775 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 21:02:34,566 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 21:03:23,629 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:04:24,437 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:05:25,172 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:05:25,249 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:05:26,033 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:06:26,169 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:06:26,184 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:06:26,800 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:06:26,997 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:06:27,585 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:06:27,782 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:06:28,240 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:06:28,477 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:06:29,178 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:06:29,423 INFO scheduler Scheduled Job Start: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:06:29,889 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:06:30,084 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:06:30,585 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:06:30,809 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:06:31,562 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:06:31,786 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:06:32,377 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:06:32,614 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:06:33,259 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:06:33,460 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 21:06:33,982 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 21:07:27,060 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:08:27,712 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:09:28,512 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:10:29,904 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:10:29,966 DEBUG scheduler Queued events for site highbrowcollege.local
+2025-07-05 21:10:30,831 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for highbrowcollege.local
+2025-07-05 21:10:31,216 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:10:32,038 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for highbrowcollege.local
+2025-07-05 21:10:32,344 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:10:33,251 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for highbrowcollege.local
+2025-07-05 21:10:33,790 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:10:35,151 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for highbrowcollege.local
+2025-07-05 21:10:35,505 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:10:36,408 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for highbrowcollege.local
+2025-07-05 21:10:36,850 INFO scheduler Scheduled Job Start: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:10:37,993 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for highbrowcollege.local
+2025-07-05 21:10:38,530 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:10:39,599 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for highbrowcollege.local
+2025-07-05 21:10:40,036 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:10:41,944 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for highbrowcollege.local
+2025-07-05 21:10:42,386 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:10:43,280 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for highbrowcollege.local
+2025-07-05 21:10:43,744 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:10:45,037 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for highbrowcollege.local
+2025-07-05 21:10:45,389 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for highbrowcollege.local
+2025-07-05 21:10:46,200 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for highbrowcollege.local
+                                                                                     

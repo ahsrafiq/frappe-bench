@@ -1,0 +1,52 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-06-21 20:22:03.970272",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "emp_qualification",
+  "emp_passing_year",
+  "emp_grade",
+  "emp_institute_name"
+ ],
+ "fields": [
+  {
+   "fieldname": "emp_qualification",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Qualification",
+   "options": "Bachelor\nMaster"
+  },
+  {
+   "fieldname": "emp_passing_year",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Passing Year"
+  },
+  {
+   "fieldname": "emp_grade",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Grade"
+  },
+  {
+   "fieldname": "emp_institute_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "University"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-06-22 00:23:40.713182",
+ "modified_by": "Administrator",
+ "module": "Custom",
+ "name": "Education Entry",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
