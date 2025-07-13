@@ -1,4 +1,4 @@
-FROM frappe/erpnext:v13.55.2
+FROM frappe/erpnext:v14
 
 WORKDIR /home/frappe/frappe-bench
 
