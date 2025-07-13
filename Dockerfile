@@ -1,24 +1,20 @@
-FROM frappe/erpnext:v14.39.0
+FROM frappe/erpnext:v14
 
 WORKDIR /home/frappe/frappe-bench
 
-# Copy files and set ownership
+# Copy your ERPNext project files with correct ownership
 COPY --chown=frappe:frappe . .
 
+# Switch to frappe user
 USER frappe
 
-# 🛠️ Step 1: Create Python virtual environment
-RUN bench setup env
-
-# 🧰 Step 2: Install dependencies into virtual env
+# Only install dependencies and build (skip env setup)
 RUN bench setup requirements
-
-# 🏗️ Step 3: Build frontend assets
 RUN bench build --production
 
 USER root
 
-# Entrypoint
+# Copy and configure entrypoint
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
