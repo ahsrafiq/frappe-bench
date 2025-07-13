@@ -2,11 +2,8 @@ FROM frappe/erpnext:v14.39.0
 
 WORKDIR /home/frappe/frappe-bench
 
-# Copy your custom bench code
-COPY . .
-
-# Set correct permissions
-RUN chown -R frappe:frappe /home/frappe/frappe-bench
+# Copy project files and assign correct ownership directly
+COPY --chown=frappe:frappe . .
 
 # Switch to frappe user
 USER frappe
@@ -15,10 +12,9 @@ USER frappe
 RUN bench setup requirements
 RUN bench build --production
 
-# Switch back if needed
+# Switch back to root to run startup script
 USER root
 
-# Entrypoint
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
