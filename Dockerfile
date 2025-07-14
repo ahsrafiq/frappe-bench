@@ -1,6 +1,6 @@
 FROM frappe/erpnext:v14
 
-WORKDIR /home/frappe/frappe-bench
+WORKDIR /home/frappe-bench
 
 # Copy your ERPNext project files with correct ownership
 COPY --chown=frappe:frappe . .
