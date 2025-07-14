@@ -1,20 +1,21 @@
 FROM frappe/erpnext:v14
 
-WORKDIR /frappe-bench
+WORKDIR /home/frappe/frappe-bench
 
-# Copy your ERPNext project files with correct ownership
-COPY --chown=frappe:frappe . .
+# Copy only necessary folders (not overwriting env/)
+COPY --chown=frappe:frappe apps apps/
+COPY --chown=frappe:frappe sites sites/
+COPY --chown=frappe:frappe Procfile .
+COPY --chown=frappe:frappe requirements.txt .
 
-# Switch to frappe user
+# Keep existing env intact
 USER frappe
 
-# Only install dependencies and build (skip env setup)
 RUN bench setup requirements
 RUN bench build --production
 
 USER root
 
-# Copy and configure entrypoint
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
