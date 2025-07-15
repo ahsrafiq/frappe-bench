@@ -19,5 +19,14 @@ EOF
 
 echo "✅ common_site_config.json created."
 
-# Start ERPNext
-bench start
+set -e
+
+echo "🔧 Setting up requirements..."
+bench setup requirements || true
+
+echo "🔧 Building production assets..."
+bench build --production || true
+
+echo "🚀 Starting bench..."
+exec bench start
+
